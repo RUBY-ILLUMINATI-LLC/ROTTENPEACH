@@ -1,5 +1,8 @@
-puts "Welcome to ROTTENPEACH! Brought to you by Ruby Illuminati LLC. Please enter a user name."
+
+puts "Welcome to ROTTENPEACH! Brought to you by Ruby Illuminati LLC. \nPlease enter a user name."
 name = gets.chomp
+puts "HI #{name}!  Lets start battleing!"
+
 
 health_points = 10
 
